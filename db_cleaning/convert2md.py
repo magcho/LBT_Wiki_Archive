@@ -1,4 +1,5 @@
 import json
+import html2text
 from pprint import pprint
 
 
@@ -38,4 +39,12 @@ if __name__ == "__main__":
 
     for entry in entryList:
         title = entry["title"]
-        html = load_html(entry["id"], entry["version"])
+        id = entry["id"]
+        html = load_html(id, entry["version"])
+        md = html2text.html2text(html)
+
+        try:
+            with open("dataset/md/" + title + "-" + str(id) + ".md", "x") as fp:
+                fp.writelines(md)
+        except Exception as e:
+            print(e)
