@@ -1,0 +1,5 @@
+{
+    "title": "パワードスピーカー",
+    "description": "パラレルの説明追加",
+    "html": "\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n    <p>アンプを内蔵したスピーカーのこと、そのためスピコン端子がなく、卓から直接スピーカーに繋げて使う。<\/p><p>よってスピコンは刺さらず、キャノンもしくはフォンが刺さり、パワードスピーカーをパラレルにしたいときは、キャノンoutかフォンoutを次のパワードに接続すればよい。<\/p>\n\n<p>アクティブスピーカーと呼ばれることもある。<\/p>\n\n<p>相模原青少年学習センターにはYAMAHAのパワードスピーカーがあり、利用することもある。<\/p>\n    <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

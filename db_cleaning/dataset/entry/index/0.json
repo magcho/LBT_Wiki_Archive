@@ -1,0 +1,137 @@
+[
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 1,
+        "description": "初版",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 10,
+            "hour": 23,
+            "minute": 24,
+            "second": 34
+        },
+        "author": "スエタケ",
+        "ip": 2886860801
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 2,
+        "description": "わかっている不具合で、スマホ向けの表示しかないことを追加",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 11,
+            "hour": 1,
+            "minute": 10,
+            "second": 30
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 3,
+        "description": "バージョン追加",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 27,
+            "hour": 0,
+            "minute": 10,
+            "second": 16
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 4,
+        "description": "不具合追加",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 27,
+            "hour": 0,
+            "minute": 11,
+            "second": 58
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 5,
+        "description": "追記",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 27,
+            "hour": 0,
+            "minute": 20,
+            "second": 13
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 6,
+        "description": "追記",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 27,
+            "hour": 0,
+            "minute": 20,
+            "second": 14
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 7,
+        "description": "アップデート",
+        "day": {
+            "year": 2017,
+            "month": 3,
+            "_day": 27,
+            "hour": 19,
+            "minute": 12,
+            "second": 55
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 8,
+        "description": "",
+        "day": {
+            "year": 2017,
+            "month": 4,
+            "_day": 24,
+            "hour": 22,
+            "minute": 46,
+            "second": 24
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    },
+    {
+        "title": "LBT_Wikiについて",
+        "ver": 9,
+        "description": "URL修正",
+        "day": {
+            "year": 2017,
+            "month": 7,
+            "_day": 30,
+            "hour": 22,
+            "minute": 47,
+            "second": 59
+        },
+        "author": "スエタケ",
+        "ip": 1025147438
+    }
+]

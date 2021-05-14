@@ -1,0 +1,5 @@
+{
+    "title": "ケーブルDIY",
+    "description": "かきかけ",
+    "html": "ケーブルは買うより作った方が安いことも多いし、変な変換ケーブルだと既製品が少ないこともあるので、作り方をなんとなく解説。<div><br><\/div><div><br><\/div><div><br><\/div><h2>普通のケーブル<\/h2><div><ul><li>XLRケーブル(キャノン)<\/li><\/ul><\/div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">PIN: 3<\/blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">接続: バランス接続<\/blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><br><\/blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">XLRケーブルはHot,Cold,Shieldの3pinのバランス接続。ピンアサインは通常ならば1番をShield,2番をHot,3番をColdとする。<\/blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">ケーブルの色はHotを有色、Coldを白を使っていることが多いような気もする。正直、ケーブルの両端で同じならばどちらでも問題ない。<\/blockquote><div><br><\/div><div><br><\/div>"
+}

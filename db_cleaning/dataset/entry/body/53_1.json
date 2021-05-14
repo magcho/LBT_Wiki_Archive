@@ -1,0 +1,5 @@
+{
+    "title": "覚えようケーブルの名前",
+    "description": "書きかけ",
+    "html": "<h2>照明<\/h2><div><br><\/div><div>呼ばれ方: ミニC<\/div><div>正式名称: ミニC型コンセント<\/div><div>照明用の電源供給用コード、太くて重い。コネクター部が意外と割れやすいので丁寧に扱うこと。とても高い。<\/div><div><br><\/div><div><br><\/div><div>呼ばれ方: キャノン, マイクコード, DMX<\/div><div>正式名称: XLR<\/div><div>マイクなど、音響用に開発されたケーブルだが、照明のDMX用通信ケーブルやスピーカーケーブル、電源供給に使われることがあるので、刺さるからOKではない。これは何のケーブルなのか、このケーブルには何が流れているのか判断してから接続する必要がある。<\/div><div>DMXは本来ならば5pin仕様であるが3pinで問題なく使える詳しくはDMXの記事を参照<\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n        <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

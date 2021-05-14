@@ -1,0 +1,5 @@
+{
+    "title": "音像",
+    "description": "",
+    "html": "<div>音像<\/div><div>目を閉じて音を聞いた時に、音が発生していると感じる場所<\/div><div><br><\/div><div>左右の斜め前にスピーカーを置き、同じ音を流すと、音像は実際にはスピーカーのない真正面に感じる、この時左のスピーカーの音を0.01秒だけ遅らせると音像は真正面よりやや右に感じる。これは人間の脳が近いものほど早く聞こえるということを経験的に知っているからであり、音の高さなどでも音像へ影響する。<\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n        <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

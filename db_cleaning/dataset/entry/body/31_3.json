@@ -1,0 +1,5 @@
+{
+    "title": "プロセ二アムスピーカー",
+    "description": "",
+    "html": "\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n    \n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n    天井に埋め込まれているスピーカーのこと。<div>LBTではホール音響と呼ばれている。<\/div><div><br><\/div><div>図面では「プロセ」と略して書かれていたりして、迷いやすいので注意。<\/div>    <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n    <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

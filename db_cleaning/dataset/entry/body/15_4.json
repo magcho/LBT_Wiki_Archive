@@ -1,0 +1,5 @@
+{
+    "title": "新入部員のための入門講座",
+    "description": "",
+    "html": "\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n    <p>新入部員が入ってくる季節になりました。今年もLBT新人講習会を開きますがそれだけでは足りない！<\/p>\n\n<p>そこで新入部員にいち早く覚えて欲しいことや共通して知っておいて欲しいことなどを記事として書いておきましょう！<\/p>\n\n<p>&nbsp;<\/p>\n\n<p>http:\/\/lbt.webcrow.jp\/index.php?cmd=view&amp;page=5<br><\/p>\n    <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

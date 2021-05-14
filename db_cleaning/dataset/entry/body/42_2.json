@@ -1,0 +1,5 @@
+{
+    "title": "小屋付き",
+    "description": "",
+    "html": "\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n    外部のホールなどを使うの時に、そのホールに常駐して働いているスタッフのこと、そのホールで何か借りたい時や、バトンを昇降したい時は小屋付きの方にお願いをする。    <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}

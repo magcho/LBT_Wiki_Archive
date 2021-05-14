@@ -1,0 +1,5 @@
+{
+    "title": "グラフィックイコライザー",
+    "description": "",
+    "html": "<h2>グラフィックイコライザーとは<\/h2><div><span style=\"color: rgb(51, 51, 51); font-family: &quot;Century Gothic&quot;, Arial, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, メイリオ, Meiryo, &quot;ＭＳ Ｐゴシック&quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);\">グラフィックイコライザーは、特定の周波数帯(特定の高さ)の音量を上げたり、下げたりする機材です。この特定の周波数帯(バンド)の数によって正面のパネルに設置されているフェーダーの数が変わってきます。例えば31バンドのグラフィックイコラーザーは31個のフェーダーが設置れています。これらを上下に動かすことでその周波数帯の音を調整できる訳です。すると、下図のような周波数特性を作り出すことができるようになります。<\/span><\/div><div><br><\/div>"
+}

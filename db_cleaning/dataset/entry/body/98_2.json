@@ -1,0 +1,5 @@
+{
+    "title": "ディマー",
+    "description": "",
+    "html": "灯体に送る電気を調整する機械、調光機とも言われる。視聴覚室の場合は、調光室の後ろの壁に埋め込まれている。体育館は放送室にLight Puterが常設されている。<div id=\"UMS_TOOLTIP\" style=\"position: absolute; cursor: pointer; z-index: 2147483647; background-color: transparent; top: -100000px; left: -100000px; background-position: initial initial; background-repeat: initial initial;\"><\/div><div><br><\/div><div>LiSAにあるものは全てDMX信号を受信して、サイリスタ(調光素子)で調光する。PWMに近い方式。この方法で調光されている電源は調光電源と呼ばれ、調光されていない正弦波交流の電源を純直電源と呼び分ける人もいたりする。これは、調光された電源は正弦波交流ではなくなる場合があり、灯体以外の機器の電源供給に使用すると悪影響を及ぼすと考えることができるためディマーによっては灯体以外の負荷を接続することを禁止している。灯体以外の負荷とはミラーボールのモーターやLED機器の電源等を指す。だが実際に使えるのは事実なので絶対にダメや大丈夫とは言えないグレーな状態。スタッフのポリシーや劇場のルールを確認してください。<\/div><div><img src=\"http:\/\/lbt.webcrow.jp\/db\/entry\/img\/98\/2017122909084552.JPG\"><\/div>"
+}

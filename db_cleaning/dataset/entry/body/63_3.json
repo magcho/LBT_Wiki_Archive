@@ -1,0 +1,5 @@
+{
+    "title": "PC卓",
+    "description": "",
+    "html": "<h2>ソフト<\/h2>LBTで導入しているソフトはQLC+です。<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>ダウンロード &nbsp;http:\/\/www.qlcplus.org\/downloads.html<\/div><div>取説(英語) &nbsp; &nbsp; http:\/\/www.qlcplus.org\/docs\/index.html<\/div><div>取説(日本語翻訳版)　製作中 ※翻訳を手伝ってくれる人募集中、スエタケに連絡ください。<\/div><div><br><\/div><\/blockquote><div><br><\/div><div><br><\/div><div>導入しているNodeはENTTEC OpenDMX互換品です。<\/div><div>これを作っただけなので、<\/div><div><ul><li>https:\/\/stevenbreuls.com\/2013\/05\/diy-usb-dmx-dongle-interface-for-under-10\/<\/li><li>https:\/\/stevenbreuls.com\/2014\/04\/dmx-rs485-wrong-board-fix\/<\/li><\/ul><div>ここら辺を参考にして、作ってみて下さい。<\/div><\/div><div><br><\/div><div><div>QLC+を使えば、Art-Net Nodeの代わりにも使えるので、他のソフトも使えますよ。<\/div><\/div><div><br><\/div><h2>Tips<\/h2><div><ul><li>照明チェイス BPMからテンポを合わせる&nbsp;http:\/\/lbt.webcrow.jp\/77<\/li><\/ul><\/div>"
+}

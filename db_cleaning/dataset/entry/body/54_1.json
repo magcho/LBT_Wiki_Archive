@@ -1,0 +1,5 @@
+{
+    "title": "Universe（ユニバース）",
+    "description": "",
+    "html": "<div>照明の回線の呼びかた、ユニバースと読む。<\/div><div>DMXのケーブル１本を１ユニバースと表し、DMXでは１ユニバースあたり512chのコントロールができる。<br><\/div><div><br><\/div><div>PC卓では、１つのソフトから２本以上のDMXを出力することができるので、単に出力先を表ていることも多い。<\/div><div id=\"UMS_TOOLTIP\" style=\"position: absolute; cursor: pointer; z-index: 2147483647; background: transparent; top: -100000px; left: -100000px;\"><\/div>"
+}

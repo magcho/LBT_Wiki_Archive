@@ -1,0 +1,5 @@
+{
+    "title": "LBT_Wikiについて",
+    "description": "バージョン追加",
+    "html": "<h2 class=\"section\">公開について<\/h2>\n\n<p>このLBT_WIkiは&beta;版です、様々なバグや不具合、よくわからない挙動をします。<\/p>\n\n<p>とりあえず、記事の執筆・表示・検索はできる様になったので公開しました。<\/p>\n\n<h2 class=\"section\">分かってる不具合<\/h2>\n\n<p>・記事に画像が載せられない<\/p>\n\n<p>・スマホ向けデザインしか作ってないのでPCからだと表示がおかしい<\/p>\n\n<h2 class=\"section\">過去バージョン<\/h2>\n\n<p>var 0.1b: &nbsp;LBT_Wikiの公開<\/p>\n\n<p>var 0.2b: URLを貼るとリンクに飛べるようにアップデート<\/p>\n"
+}

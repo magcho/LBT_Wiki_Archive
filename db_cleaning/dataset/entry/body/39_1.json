@@ -1,0 +1,5 @@
+{
+    "title": "ウィンドスクリーン",
+    "description": "",
+    "html": "<div>マイクのグリルの上に取り付けるスポンジや布、毛皮のようなもの。風による「ヒューヒュー」というような風切り音をマイクが拾わないように使用する。<br><\/div><div><br><\/div><div>ウィンドスクリーンを取り付けるとマイクのグリル近くの気流が撹拌されるため、風切り音が抑制される。<\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/ad.netowl.jp\/js\/webcrow-php.js\"><\/script>\n        <!-- Include JQery -->\n    <script src=\"http:\/\/lbt.webcrow.jp\/resource\/jquery\/jquery-3.1.1.min.js\"><\/script>\n    <script>\n$(function(){$('div[style]:not([class]):not([id])').css('display','none');});<\/script>\n  \n\n"
+}
