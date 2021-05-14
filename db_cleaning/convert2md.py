@@ -43,12 +43,20 @@ def generate_index_page(entry_list):
 
 上記のサイトが今後更新されることはありませんがリンクを残すために掲載を続けます。
 
-コンテンツの内容に関しての連絡は(githubページ)[https://github.com/magcho/LBT_Wiki_Archive/issue]へお願いします。
+コンテンツの内容に関しての連絡は[githubページ](https://github.com/magcho/LBT_Wiki_Archive/issue)へお願いします。
 
 ## コンテンツ一覧
 """
 
     for entry in entry_list:
+        title = entry["title"]
+        id = entry["id"]
+        url = "/md/" + str(id) + ".md"
+
+        md = md + "- [" + str(title) + "](./md/" + str(title) + "-" + str(id) + ".md)\n"
+
+    with open("./index.md", "x") as fp:
+        fp.writelines(md)
 
 
 if __name__ == "__main__":
@@ -66,4 +74,4 @@ if __name__ == "__main__":
     #     except Exception as e:
     #         print(e)
 
-    create_index_page(entry_list)
+    generate_index_page(entry_list)
