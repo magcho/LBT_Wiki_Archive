@@ -20,5 +20,22 @@ def read_index_file():
     return entry_list
 
 
+def load_html(id, version):
+    with open("./dataset/entry/body/" + str(id) + "_" + str(version) + ".json") as fp:
+        try:
+            body = json.load(fp)
+            return body["html"]
+        except Exception as e:
+            print(
+                "json parse error:",
+                "./dataset/entry/body/" + str(id) + "_" + str(version) + ".json",
+                e,
+            )
+
+
 if __name__ == "__main__":
-    read_index_file()
+    entryList = read_index_file()
+
+    for entry in entryList:
+        title = entry["title"]
+        html = load_html(entry["id"], entry["version"])
