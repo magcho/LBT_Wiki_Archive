@@ -34,17 +34,36 @@ def load_html(id, version):
             )
 
 
+def generate_index_page(entry_list):
+    md = """\
+# 旧 LBT Wikiに掲載していたコンテンツのアーカイブ
+
+## このページは？
+これは2017年ごろにlbt-wiki.webcrow.jp及びlbt-wiki.magcho.comに掲載していたコンテンツのアーカイブです。
+
+上記のサイトが今後更新されることはありませんがリンクを残すために掲載を続けます。
+
+コンテンツの内容に関しての連絡は(githubページ)[https://github.com/magcho/LBT_Wiki_Archive/issue]へお願いします。
+
+## コンテンツ一覧
+"""
+
+    for entry in entry_list:
+
+
 if __name__ == "__main__":
-    entryList = read_index_file()
+    entry_list = read_index_file()
 
-    for entry in entryList:
-        title = entry["title"]
-        id = entry["id"]
-        html = load_html(id, entry["version"])
-        md = html2text.html2text(html)
+    # for entry in entryList:
+    #     title = entry["title"]
+    #     id = entry["id"]
+    #     html = load_html(id, entry["version"])
+    #     md = html2text.html2text(html)
 
-        try:
-            with open("dataset/md/" + title + "-" + str(id) + ".md", "x") as fp:
-                fp.writelines(md)
-        except Exception as e:
-            print(e)
+    #     try:
+    #         with open("dataset/md/" + title + "-" + str(id) + ".md", "x") as fp:
+    #             fp.writelines(md)
+    #     except Exception as e:
+    #         print(e)
+
+    create_index_page(entry_list)
